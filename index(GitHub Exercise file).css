@@ -1,0 +1,18 @@
+/* CSS Centering Code with the ID Selector "#center" */
+
+#center {
+
+text-align: center;
+
+}
+
+/* Styling */
+
+body {
+    margin: auto;
+    width: 650px;
+    padding: 150px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 100px;
+    color: teal;
+}
